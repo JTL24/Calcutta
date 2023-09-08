@@ -1,8 +1,31 @@
------BEGIN OPENSSH PRIVATE KEY-----
-b3BlbnNzaC1rZXktdjEAAAAACmFlczI1Ni1jdHIAAAAGYmNyeXB0AAAAGAAAABD6m/rfus
-GaWKDWaxUjTmw5AAAAEAAAAAEAAAAzAAAAC3NzaC1lZDI1NTE5AAAAIItsdr0y6PuVKmWU
-potaJopln/B0Ii4zIZjU7Z5azOmGAAAAoA+5HoM2I07rcX2ZfbNqaawZvgyoIXcgUv7ryb
-s1i70aaVyOVsi0xIp32XJ3AOmBmzU2h6zhbICGogerXrQnR6hGRDYUezG9nxVTDzxLfZah
-mSBvk9/uyL7KPYf8gc7dL9oYPyQ709z8PlT/e2fQ6RlOue7U70MiWNxlAN7YlPaJ46i5Uh
-T1AHVuSv4cvAG7ZcKTcKrJB4Q+TrKhI75012o=
------END OPENSSH PRIVATE KEY-----
+# March Madness Calcutta 
+
+This is a creation by me and @pt-07 for a website that will handle all functions of a Calcutta (not the city) auction and league. 
+
+The tech stack is React.js, Node.js, and MongoDB. 
+
+# Instructions 
+
+Delete the package-lock.json file, if it is in there (depends if I remember to not add it to a push).
+ 
+```
+cd my-app 
+npm install
+npm run start 
+```
+
+This will get the react app started 
+
+``` 
+cd server
+nodemon server
+``` 
+
+Right now, there is no cluster on the cloud.
+
+So, you will have to create your own MongoDB cluster and replace the uri strings in db.js and server.js 
+
+# In Development 
+- Getting the database into MongoDB Atlas to prepare for global deployment 
+- Fix up front end gimixs
+- Nest Users and Bids collections in the backend  
