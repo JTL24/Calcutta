@@ -1,7 +1,9 @@
 
 # March Madness Calcutta 
 
-This is a creation by me and @pt-07 for a website that will handle all functions of a Calcutta (not the city) auction and league. 
+This is a creation by me and @pt-07 for a website that will handle all functions of Calcutta (not the city), but the auction and league frequently used for March Madness. 
+
+This is meant to be a platform that will handle all of the Calcutta workings (auctions, leagues, and eventually payments)  
 
 The tech stack is React.js, Node.js, and MongoDB. 
 
