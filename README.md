@@ -1,5 +1,5 @@
 
-# March Madness Calcutta (deprecated currently getting moved to a React Native App) 
+# March Madness Calcutta (currently getting moved to a React Native App) 
 
 This is a creation by me and @pt-07 for a website that will handle all functions of Calcutta (not the city), but the auction and league frequently used for March Madness. 
 
