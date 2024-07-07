@@ -5,7 +5,7 @@ This is a creation by me and @pt-07 for a website that will handle all functions
 
 This is meant to be a platform that will handle all of the Calcutta workings (auctions, leagues, and eventually payments)  
 
-The tech stack is React.js, Node.js, and MongoDB. 
+The tech stack is React.js, Node.js, Express and MongoDB. 
 
 ## Instructions 
 
